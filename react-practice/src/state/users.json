@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "Dima",
+        "last_name": "D",
+        "geo": "VN",
+        "is_student": false,
+        "is_working": true,
+        "short_bio": "Working in IT",
+        "contacts": [
+            {
+                "e-mail": "dd@gmail.com",
+                "phone": "+380501333991",
+                "skype": null
+            }
+        ]
+    },
+    {
+        "first_name": "Marry",
+        "last_name": "R",
+        "geo": "VN",
+        "is_student": false,
+        "is_working": true,
+        "short_bio": "Working",
+        "contacts": [
+            {
+                "e-mail": "mr28@gmail.com",
+                "phone": null,
+                "skype": "mr28k"
+            }
+        ]
+    }
+]
