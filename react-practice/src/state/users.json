@@ -28,5 +28,20 @@
         "skype": "mr28k"
       }
     ]
+  },
+  {
+    "first_name": "Henry",
+    "last_name": "Pose",
+    "geo": "KY",
+    "is_student": true,
+    "is_working": false,
+    "short_bio": "Student",
+    "contacts": [
+      {
+        "e-mail": "henryPose@gmail.com",
+        "phone": null,
+        "skype": null
+      }
+    ]
   }
 ]
